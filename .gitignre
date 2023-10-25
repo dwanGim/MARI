@@ -1,0 +1,10 @@
+*.zip
+*.txt
+*.jar
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.rar
+*.project
+*.classpath
