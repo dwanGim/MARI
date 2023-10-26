@@ -8,3 +8,5 @@
 *.rar
 *.project
 *.classpath
+
+/keys.py
