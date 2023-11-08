@@ -12,7 +12,7 @@
 /keys.py
 /memo.md
 media/
-
+.venv/
 
 # # 문법
 # # 확장자가 .js 인 파일은 무시
